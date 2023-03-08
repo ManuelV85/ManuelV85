@@ -1,13 +1,17 @@
 ### Hello to you!!! 👋
 
-I´m a ✨Mechanical Engineer✨ who become into a ✨✨✨Full Stack Developer✨✨✨
+I´m a ✨Mechanical Engineer✨ who become into a ✨✨✨__Full Stack Developer__✨✨✨
 🌱i´m new on this field🌱, but i love TI ⚡⚡⚡....... for this i practice everyday to improve my skills 😄
 
 I speak ES/EN.
 
 I code in ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) and ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-Mixed with ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+Mixed with ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)   ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) and learning ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
+
+and also ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) SQL SQLAlchemy 
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelV85)](https://github.com/ManuelV85/github-readme-stats)
 
