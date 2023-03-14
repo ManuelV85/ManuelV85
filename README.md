@@ -1,7 +1,7 @@
 ### Hello to you!!! 👋
 
 I´m a ✨Mechanical Engineer✨ who become into a ✨✨✨__Full Stack Developer__✨✨✨
-🌱i´m new on this field🌱, but i love TI ⚡⚡⚡....... for this i practice everyday to improve my skills 😄
+🌱i´m new on this field🌱, but i love TI ⚡⚡⚡.......  😄
 
 I speak ES/EN.
 
