@@ -1,19 +1,21 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/N57KpqDb0tlWE/giphy.gif" alt="" width="200">
+    <img src="https://media.giphy.com/media/Kc2GKprlwHTTizRfmu/giphy.gif" alt="" width="200">
     <h1 align="center">Hello to you </h1>
     <h3 align="center"> I´m a ✨Mechanical Engineer✨ who become into a ✨✨✨__Full Stack Developer__✨✨✨
 🌱i´m new on this field🌱and  i love TI ⚡⚡⚡.......  😄. 
 
 I really want to learn new things and be part of a great team, that make me contribute with greats proyects, for this i´ve  practiced every day and keep coding, because is the way that i could improve mi skills and the way tha we can grow up like a pro 🚀🚀🚀
     </h3>
+    
+    <img src="https://media.giphy.com/media/N57KpqDb0tlWE/giphy.gif" alt="" width="200">
 </div>
 
 
 
+- - -
 
 
-
-
+🤔 About me  
 I speak ES/EN.
 
 I code in ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) and ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
