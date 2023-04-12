@@ -1,3 +1,16 @@
+<div id="header" align="center">
+    <img src="[https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif](https://www.reactiongifs.com/wp-content/uploads/2012/11/typing.gif)" alt="" width="200">
+    <h1 align="center">Hello to you </h1>
+    <h3 align="center"> I´m a ✨Mechanical Engineer✨ who become into a ✨✨✨__Full Stack Developer__✨✨✨
+🌱i´m new on this field🌱and  i love TI ⚡⚡⚡.......  😄. 
+
+I really want to learn new things and be part of a great team, that make me contribute with greats proyects, for this i´ve  practiced every day and keep coding, because is the way that i could improve mi skills and the way tha we can grow up like a pro 🚀🚀🚀
+    </h3>
+</div>
+
+
+
+
 ### Hello to you!!! 👋
 
 I´m a ✨Mechanical Engineer✨ who become into a ✨✨✨__Full Stack Developer__✨✨✨
