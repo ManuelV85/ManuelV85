@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="[https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif](https://www.reactiongifs.com/wp-content/uploads/2012/11/typing.gif)](https://www.bing.com/ck/a?!&&p=9adff5f0cd692529JmltdHM9MTY4MTE3MTIwMCZpZ3VpZD0zMGFlY2U0ZC0wZmNkLTY2YjAtMjY5MS1kYzlmMGUyMDY3YTMmaW5zaWQ9NTQ4Mg&ptn=3&hsh=3&fclid=30aece4d-0fcd-66b0-2691-dc9f0e2067a3&u=a1L2ltYWdlcy9zZWFyY2g_cT1HSUYlMjBKaW0lMjBDYXJyZXklMjBDb2RpbmcmRk9STT1JUUZSQkEmaWQ9OTVFRkU0NTU1NjI3QzMyODZFRkU2OTgzN0QyRDc4M0I4RDczNUREMA&ntb=1)" alt="" width="200">
+    <img src="https://media.giphy.com/media/N57KpqDb0tlWE/giphy.gif" alt="" width="200">
     <h1 align="center">Hello to you </h1>
     <h3 align="center"> I´m a ✨Mechanical Engineer✨ who become into a ✨✨✨__Full Stack Developer__✨✨✨
 🌱i´m new on this field🌱and  i love TI ⚡⚡⚡.......  😄. 
@@ -13,8 +13,6 @@ I really want to learn new things and be part of a great team, that make me cont
 
 
 
- <img align="right" alt="Coding" width="400" src="[add your link 
-  here](https://www.reactiongifs.com/wp-content/uploads/2012/11/typing.gif)">
 
 I speak ES/EN.
 
