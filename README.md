@@ -9,13 +9,16 @@ I really want to learn new things and be part of a great team, that make me cont
     
     
 </div>
-
-<img src="https://media.giphy.com/media/N57KpqDb0tlWE/giphy.gif" alt="" width="200">
+<div id= "header" align = "center">
+    <img src="https://media.giphy.com/media/N57KpqDb0tlWE/giphy.gif" alt="" width="200">
+</div>
 
 - - -
 
 
-<h3>🤔</h3> About me  
+    
+<h3>🤔 About me</h3>
+    
 I speak ES/EN.
 
 I code in ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) and ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
