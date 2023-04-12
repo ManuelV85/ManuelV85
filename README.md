@@ -35,8 +35,7 @@ Mixed with <div style="display: flex;">
         alt="flask" width="60" height="60">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="flask"
         alt="flask" width="60" height="60">&nbsp;
-   
-    </div>
+       </div>
 
 and also <div style="display: flex;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML"
