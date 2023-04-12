@@ -21,27 +21,30 @@ I really want to learn new things and be part of a great team, that make me cont
     
 I speak ES/EN.
 
-I code in ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) and ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-Mixed with ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)   ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
+I code in <div style="display: flex;">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="javascript"
+        alt="javascript" width="40" height="40">&nbsp;
+    <h2> and </h2>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python"
+        alt="python" width="40" height="40">&nbsp;
+    </div>
+    
+Mixed with <div style="display: flex;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react"
+        width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask"
+        alt="flask" width="40" height="40">&nbsp;
+    </div>
 
 and also <div style="display: flex;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML"
         width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="css3" alt="css3"
-        width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="javascript"
-        alt="javascript" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react"
-        width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python"
-        alt="python" width="40" height="40">&nbsp;
+        width="40" height="40">&nbsp;    
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
         title="bootstrap" alt="bootstrap" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-plain.svg" title="sqlalchemy"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="sqlalchemy"
         alt="sqlalchemy" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask"
-        alt="flask" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" alt="git" width="40"
         height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github"
