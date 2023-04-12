@@ -34,7 +34,7 @@ Mixed with <div style="display: flex;">
     <img src="![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)" title="flask"
         alt="flask" width="50" height="50">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="flask"
-        alt="flask" width="40" height="40">&nbsp;
+        alt="flask" width="60" height="60">&nbsp;
    
     </div>
 
