@@ -32,7 +32,7 @@ Mixed with <div style="display: flex;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react"
         width="40" height="40">&nbsp;
     <img src="![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)" title="flask"
-        alt="flask" width="40" height="40">&nbsp;
+        alt="flask" width="50" height="50">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="flask"
         alt="flask" width="40" height="40">&nbsp;
    
@@ -49,7 +49,7 @@ and also <div style="display: flex;">
         alt="sqlalchemy" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" alt="git" width="40"
         height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github"
         alt="github" width="40" height="40">&nbsp;
 </div> 
 
