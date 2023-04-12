@@ -24,16 +24,18 @@ I speak ES/EN.
 I code in <div style="display: flex;">
             <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="javascript"
         alt="javascript" width="40" height="40">&nbsp;
-    <h2> and </h2>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python"
         alt="python" width="40" height="40">&nbsp;
     </div>
     
 Mixed with <div style="display: flex;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react"
         width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask"
+    <img src="![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)" title="flask"
         alt="flask" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="flask"
+        alt="flask" width="40" height="40">&nbsp;
+   
     </div>
 
 and also <div style="display: flex;">
