@@ -5,6 +5,9 @@ I´m a ✨Mechanical Engineer✨ who become into a ✨✨✨__Full Stack Develop
 
 I really want to learn new things and be part of a great team, that make me contribute with greats proyects, for this i´ve  practiced every day and keep coding, because is the way that i could improve mi skills and the way tha we can grow up like a pro 🚀🚀🚀
 
+ <img align="right" alt="Coding" width="400" src="[add your link 
+  here](https://www.reactiongifs.com/wp-content/uploads/2012/11/typing.gif)">
+
 I speak ES/EN.
 
 I code in ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) and ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
