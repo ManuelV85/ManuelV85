@@ -15,11 +15,11 @@ and also ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelV85)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelV85)](https://github.com/ManuelV85/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelV85&show_icons=true&theme=dark)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelV85)](https://github.com/ManuelV85/github-readme-stats)
 
