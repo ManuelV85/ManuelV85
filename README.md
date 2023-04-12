@@ -1,7 +1,9 @@
 ### Hello to you!!! 👋
 
 I´m a ✨Mechanical Engineer✨ who become into a ✨✨✨__Full Stack Developer__✨✨✨
-🌱i´m new on this field🌱, but i love TI ⚡⚡⚡.......  😄
+🌱i´m new on this field🌱and  i love TI ⚡⚡⚡.......  😄. 
+
+I really want to learn new things and be part of a great team, that make me contribute with greats proyects, for this i´ve  practiced every day and keep coding, because is the way that i could improve mi skills and the way tha we can grow up like a pro 🚀🚀🚀
 
 I speak ES/EN.
 
@@ -12,6 +14,10 @@ Mixed with ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-t
 and also ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) SQL SQLAlchemy 
 
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelV85)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelV85)](https://github.com/ManuelV85/github-readme-stats)
 
